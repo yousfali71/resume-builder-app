@@ -2,7 +2,7 @@
 
 A modern web application for creating professional resumes with real-time preview and PDF export functionality.
 
-[![Live Demo](https://resume-builder-app-rouge.vercel.app/)]
+[![Live Demo](https://resume-builder-app-rouge.vercel.app)]
 
 ## ✨ Features
 
